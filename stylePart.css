@@ -15,9 +15,9 @@ div#começo
 }
 body{
     height: 98vh;
-    background-size: cover;
 /*color> image> position> repeat> size> attachment*/
-    background: black url('bkg.gif') center center no-repeat cover fixed;
+    background: black url('bkg.gif') center center no-repeat fixed;
+    background-size: cover;
 }
 a{
     text-decoration: none;
