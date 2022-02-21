@@ -9,17 +9,3 @@ if(SouN == true)
     alert('entao vamos continuar assim mesmo')
 }
 
-    //variaveis
-var btn = document.querySelector(`div#começo`)
-
-function interagir(){
-btn.innerText = 'clicou' 
-btn.style.background = '#000000';
-
-}
-
-function saiu()
-{
-    btn.innerText = `vamos prosseguir?`;
-    btn.style.background = 'rgb(255 115 108)';
-}
