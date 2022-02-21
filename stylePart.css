@@ -15,10 +15,7 @@ div#começo
 }
 body{
     height: 98vh;
-    background-image: url('bkg.gif');
-    background-position: center center;
     background-size: cover;
-    background-repeat: no-repeat;
 /*color> image> position> repeat> size> attachment*/
     background: black url('bkg.gif') center center no-repeat cover fixed;
 }
