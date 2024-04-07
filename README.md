@@ -1,10 +1,8 @@
 - 👋 Hi, i'm joe, i like to be recognized as @Hoso4rakida(or araikida)
-- 👀 I'm interested in becoming a front end and possibly back end programmer, in addition to being a gams developer
-- 🌱 I'm currently learning html/css, Python(Pygame), soon php, c# and SQL
+- 👀 I'm interested in becoming a gamedeveloper and software developer
+- 🌱 I'm currently learning c++, lua and c#
 - 💞️ I'm looking to collaborate on projects that can help me get closer to my ambitions
-- 📫 How to reach me: through my facebook "Joe david" or more through instagram (Joe_david.original) and my twitter (@ArakidaHoso)
-
-(if:my english is weak and very basic)
+- 📫 How to reach me: through my facebook "Joe david" and my twitter (@ArakidaHoso)
 
 <!---
 and others in coming
