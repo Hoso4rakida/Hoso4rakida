@@ -1,4 +1,4 @@
-👋 Hi, I'm Joe (Araikida)
+👋 Hi, I'm Joe
 
 👀 I’m passionate about becoming a game developer and software developer.
 
