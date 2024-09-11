@@ -1,11 +1,18 @@
-- 👋 Hi, i'm joe, i like to be recognized as @Hoso4rakida(or araikida)
-- 👀 I'm interested in becoming a gamedeveloper and software developer
-- 🌱 I'm currently learning c++, lua and c#
-- 💞️ I'm looking to collaborate on projects that can help me get closer to my ambitions
-- 📫 How to reach me: through my facebook "Joe david" and my twitter (@ArakidaHoso)
+👋 Hi, I'm Joe (Araikida)
 
-<!---
-and others in coming
-i'am from Brazil
-i'm born in 2003
---->
+👀 I’m passionate about becoming a game developer and software developer.
+
+👨‍🎓 Currently, I’m studying Software Engineering at Estácio.
+
+🌱 I’m actively learning C++ and C# and am eager to apply these skills in real-world projects.
+
+💞️ I’m looking for collaboration opportunities on projects that align with my goals and help me advance in my career.
+
+📫 Feel free to reach out to me through:
+
+Facebook: Joe David
+Twitter: @ArakidaHoso
+LinkedIn: [Joe David Ferreira](https://www.linkedin.com/in/joe-david-ferreira-296854220/)
+🇧🇷 I’m from Brazil, born in 2003.
+
+🇺🇸 My English level is B2.
