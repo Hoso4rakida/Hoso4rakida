@@ -13,6 +13,6 @@
 Facebook: Joe David
 Twitter: @ArakidaHoso
 LinkedIn: [Joe David Ferreira](https://www.linkedin.com/in/joe-david-ferreira-296854220/)
-🇧🇷 I’m from Brazil, born in 2003.
 
+🇧🇷 I’m from Brazil, born in 2003.
 🇺🇸 My English level is B2.
