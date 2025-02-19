@@ -4,7 +4,9 @@
 
 👨‍🎓 Currently, I’m studying Software Engineering at Estácio.
 
-🌱 I’m actively learning C++ and C# and am eager to apply these skills in real-world projects.
+🌱 I’m actively learning C++ and GDscript.
+
+👾 I'm know Javascript, Lua, Python, HTML/CSS and Java. 
 
 💞️ I’m looking for collaboration opportunities on projects that align with my goals and help me advance in my career.
 
