@@ -1,19 +1,16 @@
 👋 Hi, I'm Joe
 
-👀 I’m passionate about becoming a game developer and software developer.
-
 👨‍🎓 Currently, I’m studying Software Engineering at Estácio.
 
-🌱 I’m actively learning C++ and GDscript.
+🌱 I’m actively learning ReactJS and PostgreSQL.
 
-👾 I'm know Javascript, Lua, Python, HTML/CSS and Java. 
+👾 I'm know Javascript, Lua, Python and HTML/CSS. 
 
 💞️ I’m looking for collaboration opportunities on projects that align with my goals and help me advance in my career.
 
 📫 Feel free to reach out to me through:
 
 Facebook: Joe David
-Twitter: @ArakidaHoso
 LinkedIn: [Joe David Ferreira](https://www.linkedin.com/in/joe-david-ferreira-296854220/)
 
 🇧🇷 I’m from Brazil, born in 2003.
