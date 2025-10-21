@@ -2,7 +2,7 @@
 
 👨‍🎓 Currently, I’m studying Software Engineering at Estácio.
 
-🌱 I’m actively learning ReactJS and PostgreSQL.
+🌱 I’m actively learning ReactJS, Express.js and PostgreSQL.
 
 👾 I'm know Javascript, Lua, Python and HTML/CSS. 
 
